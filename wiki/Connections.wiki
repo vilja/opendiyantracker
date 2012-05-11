@@ -4,7 +4,7 @@
 
 In the Tx side, I use only a 270Ohm resistor in the pin10 output connected to the Video Tx audio in.
 
-On the Rx side, I had to use an opamp to adapt the voltage levels to the needs of the arduino board (pin2)
+On the Rx side, I had to use an opamp (LM358) to adapt the voltage levels to the needs of the arduino board (pin2)
 
 
 
