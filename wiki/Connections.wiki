@@ -11,3 +11,5 @@ On the Rx side, I had to use an opamp to adapt the voltage levels to the needs o
 = Details =
 
 See pic below:
+
+http://code.google.com/p/opendiyantracker/source/browse/wiki/Rx_side_voltage_adapter.JPG
