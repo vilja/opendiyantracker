@@ -8,10 +8,8 @@ On the Rx side, I had to use an opamp to adapt the voltage levels to the needs o
 
 
 
-= Details =
+= Details of the Rx connection to the Arduino Board=
 
 See pic below:
 
 http://opendiyantracker.googlecode.com/svn/wiki/Rx_side_voltage_adapter.JPG
-
-Link to the pic
