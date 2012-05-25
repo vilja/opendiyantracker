@@ -1,15 +1,20 @@
-#summary One-sentence summary of this page.
+#New connections....
 
-= Introduction =
+= Tx Side =
 
-In the Tx side, I use only a 270Ohm resistor in the pin10 output connected to the Video Tx audio in.
+The pics are self explanatory:
 
-On the Rx side, I had to use an opamp (LM358) to adapt the voltage levels to the needs of the arduino board (pin2)
+http://code.google.com/p/opendiyantracker/source/browse/images/Arduino_Tx_side_1.JPG
+
+http://code.google.com/p/opendiyantracker/source/browse/images/Arduino_Tx_side_2.JPG
+
+http://code.google.com/p/opendiyantracker/source/browse/images/Arduino_Tx_side_3.JPG
 
 
+= Rx Side=
 
-= Details of the Rx connection to the Arduino Board=
+http://code.google.com/p/opendiyantracker/source/browse/images/Rx_input_schematic.JPG
 
-See pic below:
+http://code.google.com/p/opendiyantracker/source/browse/images/Rx_side_Arduino_inputFilter.JPG
 
-http://opendiyantracker.googlecode.com/svn/wiki/Rx_side_voltage_adapter.JPG
+http://code.google.com/p/opendiyantracker/source/browse/images/Rx_side_Arduino_inputFilter_2.JPG
