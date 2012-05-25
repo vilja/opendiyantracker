@@ -5,7 +5,7 @@ The pics are self explanatory, but here it goes:
 
 
 http://opendiyantracker.googlecode.com/svn/images/Arduino_Tx_side_1.JPG
-The orange wire carries the signal to the audio IN of your video Tx (black is ground and only connected in one side), the orange disk is a ceramic capacitor marked 473 (47nF) so far it ius the value that works better.
+The orange wire carries the signal to the audio IN of your video Tx (black is ground and only connected in one side), the orange disk is a ceramic capacitor marked 473 (47nF) so far it is the value that works better.
 
 
 http://opendiyantracker.googlecode.com/svn/images/Arduino_Tx_side_2.JPG
