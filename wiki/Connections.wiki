@@ -1,18 +1,20 @@
 #New connections....
-The pics are self explanatory:
+The pics are self explanatory, but here goes:
 
 = Tx Side =
-
 
 
 http://opendiyantracker.googlecode.com/svn/images/Arduino_Tx_side_1.JPG
 The orange wire carries the signal to the audio IN of your video Tx (black is ground only connected in one side)
 
+
 http://opendiyantracker.googlecode.com/svn/images/Arduino_Tx_side_2.JPG
 Power from the lipo to the RAW pin of the arduino and also the ground (bear in mind common ground and ONLY effective connection to Ground -avoid ground loops-), the green wire brings the gps signal, in this case 9600bps, but you have to adapt t your gps unit change it in the code also).
 
+
 http://opendiyantracker.googlecode.com/svn/images/Arduino_Tx_side_3.JPG
 Fixed to the TS with double side foam.
+
 
 
 = Rx Side=
@@ -24,8 +26,11 @@ The audio "adapter" schematic, borrowed from other modem project.
 http://opendiyantracker.googlecode.com/svn/images/Rx_side_Arduino_inputFilter.JPG
 Bench used filter.
 
+
+
 http://opendiyantracker.googlecode.com/svn/images/Rx_side_Arduino_inputFilter_2.JPG
 filter adapted to a pcb board.
+
 
 
 http://opendiyantracker.googlecode.com/svn/images/ReadyToRoll.JPG
