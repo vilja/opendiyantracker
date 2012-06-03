@@ -12,8 +12,8 @@ EDIT: I am trying now this instead of the above (the above work well, but I noti
 Pay attention to the audio level of the Arduino output in order to not saturate audio input of your video Tx.
 
 Use a GND --1.8kOhm --|--8.2KOhm--pin10
-. . . . . . . . . . . . . . . . . . . . . |
-. . . . . . . . . . . . . . . . . . audio Input
+                                                       |
+                                                audio Input
 
 
 http://opendiyantracker.googlecode.com/svn/images/Arduino_Tx_side_2.JPG
