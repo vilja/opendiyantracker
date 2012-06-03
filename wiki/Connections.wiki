@@ -19,6 +19,9 @@ Fixed to the TS with double side foam.
 
 = Rx Side=
 
+New photo-schematic to follow:
+http://opendiyantracker.googlecode.com/svn/images/OpenDiyAT_Rx_connections_small.JPG
+
 http://opendiyantracker.googlecode.com/svn/images/Rx_input_schematic.JPG
 The audio "adapter" schematic, borrowed from other modem project.
 
