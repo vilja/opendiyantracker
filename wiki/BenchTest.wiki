@@ -8,6 +8,7 @@ We can use  a ftdi cable to feed gps sentences to the arduino functioning as Tx 
 = using a ftdi cable to feed gps sentences through a gps emulator =
 
 http://opendiyantracker.googlecode.com/svn/images/Wired_ftdi_gps_source.JPG
+(note: the extra wires are from a different project, don't consider them for this project.)
 
 ftdi (tx pin) ---wire--->arduinoTx (Rx or pin 0)
 
