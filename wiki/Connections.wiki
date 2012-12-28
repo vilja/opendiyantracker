@@ -49,5 +49,5 @@ filter adapted to a pcb board.
 
 
 http://opendiyantracker.googlecode.com/svn/images/ReadyToRoll.JPG
-One winch servo for PAN (Servo GWS S125 1T de 360º or other) and a regular FutabaF148 or equivalent  for TILT.
+One winch servo for PAN (Servo GWS S125 1T de 360º or other) and a regular FutabaF148 (or equivalent)  for TILT.
 All ready to roll.
